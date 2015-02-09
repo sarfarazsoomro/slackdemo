@@ -1,0 +1,123 @@
+.highlight {
+    border: 1px grey dashed;
+    background: lightgray;
+}
+
+.encloseHL {
+    background: lightgray;
+}
+
+/* 
+=======================================================
+Lemon CSS
+
+Released for OSWD and OWD.
+Coded by Anthony Yeung (http://smallpark.org)
+May 24 2005
+It would be nice if you could leave this here, thanks.
+=======================================================
+*/
+
+html,body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align:center;
+	margin-top: 20px;
+}
+
+div#content a {
+	color: #FFBA27;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #FAFAFA; 
+	border-bottom: 1px solid #F1F1F1; 
+	border-right: 1px solid #F1F1F1;
+	padding: 1px;
+}
+
+div#content a:hover {
+	color: #FFBA27;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #FAFAFA; 
+	border-bottom: 1px solid #CCC; 
+	border-right: 1px solid #CCC;
+	padding: 1px;
+}
+
+div#container {
+text-align:left
+}
+
+div#content p {
+font-family: "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #444;
+line-height:1.8em;
+}
+
+div#content h1 {
+font-size: 20px;
+font-weight: normal;
+color: #383631; 
+text-decoration: none; 
+padding: 3px 6px; 
+background-color: #D5D5D5; 
+border-bottom: 1px solid #F1F1F1; 
+border-right: 1px solid #F1F1F1;
+}
+
+div#content h2 {
+font-family: "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;
+font-size: 11px;
+font-weight: bold;
+color: #444;
+margin: 0;
+padding: 0;
+}
+
+div#container {
+width:700px;
+margin:0 auto;
+}
+
+div#footer {
+margin-top: 10px;
+background-color: #333;
+color: #FFF;
+font-size: 11px;
+font-family: Tahoma, Arial, Helvetica, sans-serif;
+clear:both;
+width:100%;
+padding: 5px;
+}
+
+div#footer a, div#footer a:hover {
+margin-top: 10px;
+background-color: #333;
+color: #FFF;
+font-size: 11px;
+font-family: Tahoma, Arial, Helvetica, sans-serif;
+clear:both;
+width:100%;
+color: #FFBA27;
+font-weight: bold;
+text-decoration: none;
+border-bottom: 1px solid #333; 
+border-right: 1px solid #333;
+}
+
+/*
+
+ Would be nice if you could keep this credit below. Thanks.
+
+*/
+
+#design-by {
+float: right;
+display:inline;
+}
